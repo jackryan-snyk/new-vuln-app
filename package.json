@@ -1,0 +1,27 @@
+{
+  "name": "vulnerable-app",
+  "version": "1.0.0",
+  "description": "A vulnerable application for security testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mysql": "^2.18.1",
+    "lodash": "^4.17.15",
+    "serialize-javascript": "^2.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "axios": "^0.19.2",
+    "ejs": "^3.1.5"
+  },
+  "keywords": [
+    "vulnerable",
+    "security",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
